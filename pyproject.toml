@@ -5,12 +5,12 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "docswarm"
 version = "0.1.0"
-description = "docswarm package"
+description = "docswarm Python package scaffold (early stage)"
 readme = "README.md"
 requires-python = ">=3.10"
 license = { file = "LICENSE" }
 authors = [
-  { name = "docswarm contributors" }
+  { name = "Ario Barin Ostovary" }
 ]
 classifiers = [
   "Programming Language :: Python :: 3",
